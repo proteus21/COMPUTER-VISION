@@ -1,7 +1,7 @@
 Detection and recognation images in range of the Flask python with Yolo
 
 Step 1)
-<img src="https://github.com/proteus21/COMPUTER-VISION/blob/main/4_Detection_image_Flask_Yolo/GUI/Flask1.JPG" width="200">
+<img src="https://github.com/proteus21/COMPUTER-VISION/blob/main/4_Detection_image_Flask_Yolo/GUI/Flask1.JPG" width="300" height ="300">
 ![GUI Screen -PL](https://github.com/proteus21/COMPUTER-VISION/blob/main/4_Detection_image_Flask_Yolo/GUI/Flask1.JPG){:.some-css-class width="200"}
 
 Step 2)
