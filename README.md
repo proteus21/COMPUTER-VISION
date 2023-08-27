@@ -5,3 +5,4 @@
 4) Recognation image-FLASK-YOLO
 5) Recognation dog breed - Flask - GUI
 6) Recognation dog breed - PYSIDE6 - GUI
+7) Face recognation number - PYQT5 - GUI
