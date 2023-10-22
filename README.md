@@ -7,3 +7,4 @@
 6) Recognation dog breed - PYSIDE6 - GUI
 7) Face recognation number - PYQT5 - GUI
 8) DeepFace - PYSIDE6 | Docker |
+9) QR SCANNER & GENERATOR -PYQT5 -GUI
