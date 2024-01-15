@@ -9,4 +9,4 @@
 8) DeepFace - PYSIDE6 | Docker |
 9) QR SCANNER & GENERATOR -PYQT5 -GUI
 10) American Sign English detection |Prediction|PYSIDE6 - GUI|
-11) DCGAN- art partraits |Preditction|
+11) DCGAN- art partraits |Preditction| FLASK |
